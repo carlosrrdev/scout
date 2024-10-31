@@ -6,7 +6,7 @@ import javax.swing.JPanel
 
 fun botPanel (): JPanel {
     val botPanel = JPanel().apply {
-        preferredSize = Dimension(800, 400)
+        preferredSize = Dimension(800, 440)
         background = Color(0xffffff)
     }
 
